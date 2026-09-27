@@ -66,7 +66,7 @@
 
 void openapps_init(void) {
 #if OPENWSN_CJOIN_C
-    cjoin_init();
+//    cjoin_init();
 #endif
 
 #if OPENWSN_C6T_C
